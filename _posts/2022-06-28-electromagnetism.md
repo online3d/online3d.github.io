@@ -1,6 +1,8 @@
 ---
-layout: post
 title:  "Electromagnetism"
+mathjax: true
+layout: post
+categories: media
 ---
         
 ## Physics of Electromagnetism
