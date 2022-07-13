@@ -1,0 +1,17 @@
+---
+title: "Description"
+layout: page
+---
+
+# Have doubt with the concepts... 
+
+Get your hands on this 3D interactive sites and follow along to
+* understand 
+* visualize 
+* evaluate 
+
+## The most powerful way for concept familiarization at
+
+```
+https://physics3dbysaji.github.io/
+```
