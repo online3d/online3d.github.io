@@ -1,14 +1,25 @@
 ---
-title:  "Markdown examples"
 layout: post
+title:  "Electromagnetism"
 ---
+        
+## Physics of Electromagnetism
+ 
+In 1820, Hans Christian Oersted, found during a lecture demonstration that when a current is sent through a wire, a nearby magnet is put into motion.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In other words, he found
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+* The flow of electricity can move bodies.
+           
+Further experiments with electricity, showed that two wires in which charges flows attract or repel each other, depending on whether the currents are parallel or antiparallel. These and other experiments show that
 
+* Wires that carry an electric current behave like magnets.
 
-## Heading Two (h2)
+Electricity can be turned into magnetism. Shortly afterwards, it was found that coils increase these effects dramatically compared to wires.
+
+* Coils behave like small magnets.
+       
+## Law of Biot and Savart
 
 ### Heading Three (h3)
 
