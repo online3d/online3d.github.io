@@ -16,14 +16,14 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Home change}
+  - {file: "README.md", title: About Me}
   - {file: "aboutme.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "effectuallearning@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/online3d"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/sajithaep"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
