@@ -3,6 +3,8 @@ layout: page
 mathjax: true
 title: ""
 ---
+The Physics 3D Interactives [Flower]( https://physics3dbysaji.github.io) is a growing collection of interactive 3D visuals for current and future generation of learners. In this website I hope to provide students, teachers and classrooms a collection of learning activities that are about engaging physics students in rich interactions. It helps to incorporate innovative teaching techniques for a 3d visualization and simulations. I have compiled some of the study materials together for here at the [github Web page]( https://physics3dbysaji.github.io).
+
 # Magnetism
 In 1820, Hans Christian Oersted, found during a lecture demonstration that when a current is sent through a wire, a nearby magnet is put into motion.
 
