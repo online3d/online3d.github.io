@@ -1,13 +1,15 @@
 ---
-title:  "Electromagnetism"
-mathjax: true
 layout: post
-categories: media
+mathjax: true
+title:  "Electromagnetism"
+categories: physics, magnetism
 ---
         
 ## Physics of Electromagnetism
  
 In 1820, Hans Christian Oersted, found during a lecture demonstration that when a current is sent through a wire, a nearby magnet is put into motion.
+
+$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
 
 In other words, he found
 
@@ -23,76 +25,33 @@ Electricity can be turned into magnetism. Shortly afterwards, it was found that 
        
 ## Law of Biot and Savart
 
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
+$$ d\vec{ B } = {{\mu_{0}} \over{4\pi}}  {i\vec{ds} \times \hat r \over{r^{2}}} $$
 
 
-## Blockquotes
+Magnetic field due to different current carrying elements are derived from Biot and Savart Law.
+        
+### Derived Formulas 
 
-### Single line
+At a distance $R$ from a Long Straight Wire
 
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+ $$ B = {{\mu_{0} i} \over{2\pi R}}  $$
 
-### Multiline
+and a Semi-infinite Straight Wire
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
-
-## Horizontal Rule
-
+ $$B = {{\mu_{0}i} \over{4\pi R}} $$
 ---
 
-## Table
+ At center of a curved circular arc with an angle $\phi$ 
+ 
+ $$B = {{\mu_{0}i \phi} \over{4\pi R}} $$
+ 
+ and for a closed coil ($\phi = 2\pi$)
+               
+$$B = {{\mu_{0}i} \over{2 R}} $$
+---
+At the center of an ideal solenoid 
+$$B = {{\mu_{0} in } } $$
+where $n = N/L$ is the number of turns per unit length, sometimes called the "turns density".
 
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
-
-## Lists
-
-### Unordered
-
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-### Ordered
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
+At the center of a toroid with radius $r$ and $N$ turns
+$$B = {{\mu_{0}i N} \over{2 \pi }}{{1}\over{r}} $$
