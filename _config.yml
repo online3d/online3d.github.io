@@ -4,7 +4,7 @@ description: "Made with open source Three.js-JavaScript 3D Library </b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-#date_format: "%B %d, %Y"
+date_format: "%B %d, %Y"
 
 # Layout
 
