@@ -39,6 +39,7 @@ At a distance $R$ from a Long Straight Wire
 and a Semi-infinite Straight Wire
 
  $$B = {{\mu_{0}i} \over{4\pi R}} $$
+ 
 ---
 
  At center of a curved circular arc with an angle $\phi$ 
@@ -48,6 +49,7 @@ and a Semi-infinite Straight Wire
  and for a closed coil ($\phi = 2\pi$)
                
 $$B = {{\mu_{0}i} \over{2 R}} $$
+
 ---
 At the center of an ideal solenoid 
 $$B = {{\mu_{0} in } } $$
