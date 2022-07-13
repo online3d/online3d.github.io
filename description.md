@@ -6,6 +6,7 @@ layout: page
 # Have doubt with the concepts... 
 
 Get your hands on this 3D interactive sites and follow along to
+
 * understand 
 * visualize 
 * evaluate 
