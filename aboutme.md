@@ -17,3 +17,7 @@ Get your hands on this 3D interactive sites and follow along to
 ```
 https://physics3dbysaji.github.io/
 ```
+## Check out the [interactive 3D][interactive-3D] for more.
+
+
+[interactive-3D]: https://physics3dbysaji.github.io/Physics/Force-Current-Effect.html
