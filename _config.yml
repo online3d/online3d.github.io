@@ -17,8 +17,8 @@ minimal: false            # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "physicslab.md"}
-  - {file: "README.md"}  
-  - {file: "blog.html"}
+  - {file: "materialscience.md"}  
+  - {file: "engineering.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "effectuallearning@gmail.com"}
