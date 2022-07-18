@@ -16,14 +16,13 @@ for all your doubt clearance.
 ```
 https://physics3dbysaji.github.io/
 ```
-
-The [Physics 3D Interactive]( https://physics3dbysaji.github.io) is a growing collection of interactive 3D visuals for current and future generation of learners. It is a work in progress where contents are to be added as developed. In this website I hope to provide students, teachers and classrooms a collection of learning activities that are about engaging physics students in rich interactions. The website is created using [Three.js](https://threejs.org/) JavaScript 3D Library, HTML and CSS. All contents are developed by me [E.P. Sajitha](effectuallearning@gmail.com). If you have any feedback regarding the contents, visualizations or if you have suggestions for a new simulation, please click on my name. 
-I have compiled some of the visualization modules here at the [Physics Lab]( physicslab).
-
 ### Check out the sample [microscope 3D](https://physics3dbysaji.github.io/Physics/Microscope-Lens.html), [telescope 3D](https://physics3dbysaji.github.io/Physics/Telescope-Lens.html) interactive and  more.
 
 
-{% include embed.html url="https://www.youtube.com/watch?v=KV4K5BI7Oyw" %}
+{% include embed.html url="https://www.youtube.com/watch?v=twhLLDENIS4" %}
+
+The [Physics 3D Interactive]( https://physics3dbysaji.github.io) is a growing collection of interactive 3D visuals for current and future generation of learners. It is a work in progress where contents are to be added as developed. In this website I hope to provide students, teachers and classrooms a collection of learning activities that are about engaging physics students in rich interactions. The website is created using [Three.js](https://threejs.org/) JavaScript 3D Library, HTML and CSS. All contents are developed by me [E.P. Sajitha](effectuallearning@gmail.com). If you have any feedback regarding the contents, visualizations or if you have suggestions for a new simulation, please click on my name. 
+I have compiled some of the visualization modules here at the [Physics Lab]( physicslab).
 
 Use controls
 *  to show/hide the labelling
