@@ -24,7 +24,7 @@ Use mouse
 
 * to zoom and pan around in the 3D space
 * to click on the microscope parts for the description
-* 
+*
 ### Check out the simulation sample [circular motion 3D](https://physics3dbysaji.github.io/Physics/Circular-Motion.html) interactive and  more.
 
 {% include embed.html url= "https://www.youtube.com/embed/GOgbrGa_86Y" %}
@@ -37,7 +37,7 @@ Use mouse
 
 * to zoom and pan around in the 3D space
 * to click on the microscope parts for the description
-* 
+
 ## The most powerful way for concept familiarization at
 ```
 https://physics3dbysaji.github.io/
