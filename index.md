@@ -38,6 +38,15 @@ Use mouse
 * to zoom and pan around in the 3D space
 * to click on the microscope parts for the description
 
+### Check out the interactive 3D simulation of force on a  [current carrying conductor in magnetic field ]([https://physics3dbysaji.github.io/Physics/Circular-Motion.html](https://physics3dbysaji.github.io/Physics/Force-Current-Effect.html)) and  more.
+
+{% include embed.html url= "https://www.youtube.com/embed/2gCtgqUEBd4" %}
+
+Play around with the parameters
+* change current polarity
+* flip magnetic polarity
+* visualize the force direction etc.
+
 ## The most powerful way for concept familiarization at
 ```
 https://physics3dbysaji.github.io/
