@@ -13,7 +13,7 @@ title: "Electromagnetic Induction"
 
 ### Visit the interactive 3D simulation of [Electromagnetic Induction and AC Generator]( https://effectuall.github.io/#Simulations/Magnetism_Electromagnetic_Induction.html ) site and follow along 
 
-{% include embed.html url= "https://youtu.be/jZL5QYKjEz4" %}
+{% include embed.html url= "https://www.youtube.com/embed/1oXFJuGY7JQ" %}
 
 Press Solenoid + Magnet 
 * to understand induced current in the solenoid due to the bar magnet movement
