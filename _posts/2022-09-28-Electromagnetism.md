@@ -13,7 +13,7 @@ title: "Magnetic Field Due To Current -Electromagnetism"
 
 ### Visit the interactive 3D simulation of [Magnetic Field Due To Current -Electromagnetism](https://effectuall.github.io/index.html#Simulations/Magnetism_Magnetic_Effect_due_to_Current.html ) site and follow along 
 
-{% include embed.html url= "https://youtu.be/1oXFJuGY7JQ" %}
+{% include embed.html url= "https://www.youtube.com/embed/1oXFJuGY7JQ" %}
 
 Press Current elements
 * to visualise the magnetic field lines around them
