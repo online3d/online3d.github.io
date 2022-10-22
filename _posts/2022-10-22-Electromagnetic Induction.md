@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title: "Electromagnetic Induction"
 ---
-# When in doubt with the concepts... 
+# Electromagnetic Induction and AC Generator
 
 * AC Generator 
 * Induced Current 
