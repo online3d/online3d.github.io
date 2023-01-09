@@ -9,16 +9,16 @@ Here I list the links to the 3D interactive sites
 
 # Optics
 
-* [Image Formation with Converging Lens](https://effectuall.github.io/#Simulations/Optics_Converging_Lens.html)
-* [Image Formation with Diverging Lens](https://effectuall.github.io/#Simulations/Optics_Diverging_Lens.html)
-* [Reflecting Telescope](https://effectuall.github.io/#Simulations/Optics_Astronomical_Telescope.html)
-* [Compound Microscope](https://effectuall.github.io/#Simulations/Optics_Compound_Microscope.html)
-* [Converging Mirror](https://effectuall.github.io/#Simulations/Optics_Converging_Mirror.html)
-* [Diverging Mirror](https://effectuall.github.io/#Simulations/Optics_Diverging_Mirror.html)
-* [Reflection of Light](https://effectuall.github.io/#Simulations/Optics_Reflection_of_Light.html)
-* [Refraction of Light](https://effectuall.github.io/#Simulations/Optics_Refraction_of_Light.html)
-* [Understanding Waves](https://effectuall.github.io/#Simulations/Optics_Understanding_Waves.html)
-* [Interference](https://effectuall.github.io/#Simulations/Optics_Interference.html)
+* [Image Formation with Converging Lens](https://effectuall.github.io/#Simulations/Optics_Converging_Lens)
+* [Image Formation with Diverging Lens](https://effectuall.github.io/#Simulations/Optics_Diverging_Lens)
+* [Reflecting Telescope](https://effectuall.github.io/#Simulations/Optics_Astronomical_Telescope)
+* [Compound Microscope](https://effectuall.github.io/#Simulations/Optics_Compound_Microscope)
+* [Converging Mirror](https://effectuall.github.io/#Simulations/Optics_Converging_Mirror)
+* [Diverging Mirror](https://effectuall.github.io/#Simulations/Optics_Diverging_Mirror)
+* [Reflection of Light](https://effectuall.github.io/#Simulations/Optics_Reflection_of_Light)
+* [Refraction of Light](https://effectuall.github.io/#Simulations/Optics_Refraction_of_Light)
+* [Understanding Waves](https://effectuall.github.io/#Simulations/Optics_Understanding_Waves)
+* [Interference](https://effectuall.github.io/#Simulations/Optics_Interference)
 
 # Kinematics
 
