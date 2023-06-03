@@ -8,7 +8,12 @@ title: "A virtual 3D Learning Platform- Physics"
 Effectuall provides an effective and powerful 3D learning platform for Interactive Physics Simulations. It introduces a teaching methodology that uses technology as access points for guiding students in science.
 
 ## Explore. Evaluate. Envision.
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+        <input type="hidden" name="hosted_button_id" value="ZTQ5RKXFNFB26" />
+        <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit"
+          title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 
+      </form>
 # When in doubt with the concepts... 
 
 Get your hands on this [3D interactive]( https://effectuall.github.io/) site available at [Github Pages]( https://github.com/online3d ) and follow along to
@@ -19,7 +24,7 @@ Get your hands on this [3D interactive]( https://effectuall.github.io/) site ava
 for all your doubt clearance.
 
 ### Check out the sample [microscope 3D](https://effectuall.github.io/Simulations/Optics_Compound_Microscope.html) interactive and  more.
-
+	<iframe id="viewer" name="viewer" allow="fullscreen; xr-spatial-tracking;"  src="https://effectuall.github.io/Simulations/Mechanics_Circular_Motion.html"></iframe>
 {% include embed.html url="https://www.youtube.com/embed/twhLLDENIS4" %}
 Use controls
 *  to show/hide the labelling
