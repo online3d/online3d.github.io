@@ -3,6 +3,12 @@ layout: page
 mathjax: true
 title: "Introduction"
 ---
+# Physics Interactive 3D Simulations
+### Effect of Visual Learning - Effectual Learning 
+A virtual 3D Learning Platform
+## Explore. Evaluate. Envision.
+Effectuall provides an effective and powerful 3D learning platform for Interactive Physics Simulations. It introduces a teaching methodology that uses technology as access points for guiding students in science.
+
 # When in doubt with the concepts... 
 
 Get your hands on this [3D interactive]( https://effectuall.github.io/) site available at [Github Pages]( https://github.com/online3d ) and follow along to
@@ -12,7 +18,7 @@ Get your hands on this [3D interactive]( https://effectuall.github.io/) site ava
 
 for all your doubt clearance.
 
-### Check out the sample [microscope 3D](https://effectuall.github.io/) interactive and  more.
+### Check out the sample [microscope 3D](https://effectuall.github.io/Simulations/Optics_Compound_Microscope.html) interactive and  more.
 
 {% include embed.html url="https://www.youtube.com/embed/twhLLDENIS4" %}
 Use controls
