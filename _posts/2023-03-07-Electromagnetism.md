@@ -1,8 +1,12 @@
 ---
-layout: post
-mathjax: true
 title: "Magnetic Field Due To Current -Electromagnetism"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - notice
 ---
+
 # Magnetic Field Due To Current -Electromagnetism
 
 * Straight Wire
