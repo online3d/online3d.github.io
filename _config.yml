@@ -7,14 +7,20 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 paginate: 5
 paginate_path: /page/:num/
+analytics: false           # include analytics
+
+# Kramdown
+kramdown:
+  auto_ids: false          # don't auto generate ids from headings
 
 # Layout
-show_title: true 
-show_excerpts: true       # show article excerpts on the home page
-show_frame: false         # adds a gray frame to the site
-show_sidebar: true       # show a sidebar instead of the usual header
-dark_header: true
-minimal: false           # use a dark header
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: true              # use a dark header - ONLY applies if show_frame: false
+show_related: true         # show the previous and next links after every post
+show_description: true     # show the site description in the sidebar
+# show_title: true         # always keep the site title visible - NOT USED ANYWHERE IN CODE
 
 # Menu
 
@@ -38,3 +44,4 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
+ - jekyll-paginate
