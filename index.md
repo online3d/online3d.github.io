@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: "Effectuall"
+title: "Home"
 ---
 ### Effect of Visual Learning - Effectual Learning 
 A virtual 3D Learning Platform- Physics
