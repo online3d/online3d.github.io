@@ -1,4 +1,4 @@
-title: "Interactive 3D Simulations in Physics"
+title: "Interactive 3D Simulations"
 author: "Sajitha E P"
 description: "© E. P. Sajitha (PhD). Interactive 3D Simulations in Physics  "
 permalink: /:title/
@@ -28,7 +28,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {file: "Problems.md"}  
   - {file: "physicslab.md"}  
-  - {file: "search.md"} #, icon: search}
+  - {file: "search.md", icon: search}
   - {file: "README.md", icon: address-card}
   - {file: "blog.html", icon: blog}
 
