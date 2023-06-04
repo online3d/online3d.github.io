@@ -1,10 +1,10 @@
 ---
 layout: page
 mathjax: true
-title: "A virtual 3D Learning Platform- Physics"
+title: "Effectuall"
 ---
 ### Effect of Visual Learning - Effectual Learning 
-
+A virtual 3D Learning Platform- Physics
 Effectuall provides an effective and powerful 3D learning platform for Interactive Physics Simulations. It introduces a teaching methodology that uses technology as access points for guiding students in science.
 
 ## Explore. Evaluate. Envision.
