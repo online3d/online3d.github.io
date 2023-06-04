@@ -5,9 +5,11 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+paginate: 5
+paginate_path: /page/:num/
 
 # Layout
-
+show_title: true 
 show_excerpts: true       # show article excerpts on the home page
 show_frame: true          # adds a gray frame to the site
 show_sidebar: true       # show a sidebar instead of the usual header
