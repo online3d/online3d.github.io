@@ -26,7 +26,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "effectuallearning@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/online3d"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/sajithaep"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
