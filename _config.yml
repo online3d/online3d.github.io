@@ -1,6 +1,6 @@
-title: "Interactive 3D Physics Simulations"
+title: "Physics 3D Interactive"
 author: "Sajitha E P"
-description: "© E. P. Sajitha (PhD). Website - A virtual 3D Learning Platform- Physics"
+description: "© E. P. Sajitha (PhD). Website built with Contrast Jekyll theme."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -11,16 +11,13 @@ date_format: "%B %d, %Y"
 show_excerpts: true       # show article excerpts on the home page
 show_frame: true          # adds a gray frame to the site
 show_sidebar: true       # show a sidebar instead of the usual header
-minimal: false            # use a dark header
+minimal: true            # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md" icon: home}
-  - {file: "blog.html" icon:blog}
-  - {file: "physicslab.md" icon: clipboard}
-  - {file: "archive.html" icon: archive}
-  - {file: "README.md" icon:address-card}
+  - {file: "README.md"}
+  - {file: "blog.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "effectuallearning@gmail.com"}
@@ -33,4 +30,3 @@ comments:
 
 plugins:
  - jekyll-feed
-
