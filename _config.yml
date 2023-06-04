@@ -9,10 +9,6 @@ paginate: 5
 paginate_path: /page/:num/
 analytics: false           # include analytics
 
-# Kramdown
-kramdown:
-  auto_ids: false          # don't auto generate ids from headings
-
 # Layout
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
