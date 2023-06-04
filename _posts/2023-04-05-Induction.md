@@ -1,8 +1,12 @@
 ---
-layout: post
-mathjax: true
 title: "Electromagnetic Induction"
+categories:
+  - Blog
+tags:
+  - chat
+  - Post Formats
 ---
+
 # Electromagnetic Induction and AC Generator
 
 * AC Generator 
