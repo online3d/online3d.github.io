@@ -18,9 +18,9 @@ minimal: false            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md" icon: home}
   - {file: "blog.html" icon:blog}
-  - {file: "projects.md" icon: clipboard}
+  - {file: "physicslab.md" icon: clipboard}
   - {file: "archive.html" icon: archive}
-  - {file: "about.md" icon:address-card}
+  - {file: "README.md" icon:address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "effectuallearning@gmail.com"}
